@@ -105,3 +105,5 @@ wiki/log.md   -- append-only change history
 ## Note
 
 This is a read-only public reference. No contributions or pull requests are accepted.
+
+**Disclaimer**: This is not an official PTE or Pearson resource. It is a personal study knowledge base compiled from third-party sources and may contain errors or outdated information. Always verify critical details against official Pearson materials.
