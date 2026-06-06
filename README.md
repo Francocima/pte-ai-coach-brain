@@ -18,10 +18,29 @@ A personal knowledge base for PTE Academic preparation, maintained using Claude 
 - Reading (5 question types)
 - Listening (8 question types)
 
-### High-impact technique pages
-- Write from Dictation, Essay Writing, SWT, SST
-- Fluency training, note-taking strategy
-- Reading Fill in the Blanks
+### Writing — Summarize Written Text (SWT)
+- Read a passage (up to 300 words), write one sentence summarizing it
+- 10 minutes per question, 2 questions — no rollover time
+- Scoring: Content (4) + Form (1) + Grammar (2) + Vocabulary (2) = **9 marks per question**
+- Content is the highest-weighted trait — cover 3–4 main ideas
+- Zero on Form = zero on everything. Protect Form first
+- Post-2025: human reviewer double-checks content. Memorized or incoherent summaries are caught
+- Strategy: copy-paste method (select 3–4 key sentences, connect with conjunctions, replace 2–3 words with synonyms)
+- Target word count: 60–65 words (safe buffer before the 75-word limit)
+- Combined contribution: ~40 marks across Writing and Reading
+
+### Writing — Write Essay (WE)
+- 20 minutes, 200–300 words (ideal: 260–270)
+- Scoring: Content (6) + Structure (6) + Linguistic Range (6) + Spelling (2) + Grammar (2) + Vocabulary Range (2) + Form (2) = **~26 marks**
+- Contributes approximately 17% of the Writing section score
+- Structure: 4 paragraphs — intro, body 1, body 2, conclusion
+- 5 essay types: Agree/Disagree, Discuss Both Views, Advantages & Disadvantages, Problem–Solution, Two-Part Question
+- Key rules: no templates (AI-detectable), no contractions, one idea per paragraph fully developed, proofread last 3–4 minutes
+- Spelling is binary: 0 errors = 2/2, 1 error = 1/2, 2+ errors = 0/2
+- Includes: sentence starter templates, academic phrase bank, pre-submit checklist, and 10 worked sample questions
+
+### Other high-impact technique pages
+- Write from Dictation, SST, fluency training, note-taking, Reading Fill in the Blanks
 
 ### Practice material
 - Worked examples with platform critiques and model answers
