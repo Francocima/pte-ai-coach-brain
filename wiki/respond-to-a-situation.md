@@ -87,6 +87,30 @@ Prompt: *you booked a library meeting room 2–3pm for a group project; it's jus
 
 That hits greeting, claim/topic, problem, polite request, an option, and a close — relevant and sufficient.
 
+## More worked examples
+
+### Example 2 — Expressing interest in a position
+
+Prompt: *Your tutor is looking for volunteers to help prepare for the school Open Week. You are interested in this position and want to tell him why you are suitable for it.*
+
+> "Hi! I heard you're looking for volunteers to help prepare for Open Week, and I'd really like to be involved. I have strong organisational skills and I'm fully available during the preparation period, so I could help coordinate activities or set up for the event. I'd love the opportunity to contribute. Please let me know how I can help."
+
+**SIMPLE breakdown:** Greet (Hi) → Introduce topic (Open Week volunteering) → no explicit problem, so move straight to suitability → Politely offer (I'd really like to be involved) → Lay option (coordinate or set up) → End (let me know how I can help).
+
+**Common template trap to avoid:** Opening with "I would like to discuss an issue we have encountered with volunteering for Open Week" is flagged as a memorised response and misframes the situation — expressing interest is not an issue. Phrases like "The background is that…" and "In the situation, what I can think of is…" are rigid template markers that trigger human review.
+
+---
+
+### Example 3 — Making a request from staff
+
+Prompt: *You left your jacket at the library and didn't realise it until you got home. You need to send a message to the library staff asking if they can keep it before you go back tomorrow.*
+
+> "Hello, I was at the library earlier today and I think I left my jacket behind. I only noticed when I got home, so I wasn't able to come back in time. Could you please check if it's been found and set it aside for me? I'll come to collect it tomorrow morning. Thank you so much for your help."
+
+**SIMPLE breakdown:** Greet (Hello) → Introduce topic (was at the library today) → Mention problem (left jacket, only noticed at home) → Politely ask (could you check and set it aside) → Lay option (I'll collect it tomorrow morning) → End (thank you).
+
+---
+
 ## Related pages
 
 - [[summarize-group-discussion]] — the other newer speaking task

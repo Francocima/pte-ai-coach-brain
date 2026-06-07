@@ -156,3 +156,10 @@ Append-only record of all operations.
 - `index.md` — added Answer Strategy under Core Reference
 
 **No new sources** — pure synthesis of the official Score Guide + existing deep-dive pages.
+
+---
+
+## 2026-06-06 — RTS worked examples added
+
+**Pages updated (1):**
+- `respond-to-a-situation.md` — Added two new worked examples (Examples 2 and 3) with full SIMPLE breakdowns and an explicit template-trap warning. Example 2: volunteering for Open Week (expressing interest, no problem to solve). Example 3: lost jacket at library (staff request). Both examples contrast correct responses against the rigid memorised-template pattern ("I would like to discuss an issue we have encountered…", "The background is that…", "In the situation, what I can think of is…") that triggers human-review flagging.
