@@ -159,6 +159,15 @@ Append-only record of all operations.
 
 ---
 
+## 2026-06-08 — Describe Image fluency insight added
+
+**Source**: Studying platform tips (user-shared, not a raw file)
+
+**Pages updated (1):**
+- `describe-image.md` — Added "Where marks are actually won and lost" section. Key insight: content is relatively easy to pass (flexible approach, keywords from different parts of the image is sufficient); the real mark differentiator between candidates is fluency and pronunciation, not content. Reinforces the [[fluency-training]] link.
+
+---
+
 ## 2026-06-06 — RTS worked examples added
 
 **Pages updated (1):**
