@@ -60,6 +60,14 @@ The official Content scale shows exactly what separates bands (source: Score Gui
 
 The lesson: **relationships and trends** lift you to 5–6; a **list of disconnected labels** drops you to 1. Same principle as the keyword-dump failure in [[retell-lecture]].
 
+## Where marks are actually won and lost
+
+Content is relatively easy to get right — you can describe the image in many valid ways (relationships, trends, item names, conclusions). Selecting keywords or phrases from different parts of the graph is sufficient to clear the content floor.
+
+**The real differentiator is fluency and pronunciation, not content.** Once your response is relevant and specific enough to avoid a 0, most of the mark variation between candidates comes from how clearly and smoothly they speak — not from what they say. (source: studying platform tips)
+
+This means [[fluency-training]] deserves as much practice time as content strategy.
+
 ## A safe spoken shape
 
 Frame → fill with real data → relate → close:
